@@ -1,4 +1,6 @@
 # Firefaucet
+https://firefaucet.win/ref/80392
+
 Autoclaim script for pc and laptop
 this script support auto update, no hot keys, licences etc that annoying
 
