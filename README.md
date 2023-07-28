@@ -1,6 +1,6 @@
 # Firefaucet
 Autoclaim script for pc and laptop
-this script support auto update, no hot keys, licences etc that annoying made by indian boys 😂
+this script support auto update, no hot keys, licences etc that annoying
 
 download all php file put in one folder
 open in notepad the cfg.php
